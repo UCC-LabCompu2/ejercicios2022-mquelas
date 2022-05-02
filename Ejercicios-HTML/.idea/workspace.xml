@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32c49717-3836-4573-a713-89e0cf7f3fe6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Ejercicios-HTML.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ej_noticia.html" beforeDir="false" afterPath="$PROJECT_DIR$/ej_noticia.html" afterDir="false" />
+    <list default="true" id="ff3231b6-c917-4787-af7c-1a52c479a3ea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ej_formulario.html" beforeDir="false" afterPath="$PROJECT_DIR$/ej_formulario.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ej_listas.html" beforeDir="false" afterPath="$PROJECT_DIR$/ej_listas.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
